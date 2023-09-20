@@ -1,0 +1,6 @@
+Django Setup
+
+1. check py version (python --version)
+2. pip3 install pipenv (virtual env)
+3. Install VS Code
+4. Install Python extension
